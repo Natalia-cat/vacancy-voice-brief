@@ -7,7 +7,7 @@
 
 | Что | Где |
 |---|---|
-| Спецификация | [Figma spec](https://www.figma.com/spec/exVZRZCVfEUVJdW9dISgX7/Untitled), копия для агентов — [`SPEC.md`](SPEC.md) |
+| Спецификация | [`SPEC.md`](SPEC.md) — единственная актуальная версия |
 | Презентация для пользователя | [PDF](https://github.com/Natalia-cat/vacancy-voice-brief/blob/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B1%D1%80%D0%B8%D1%84.pdf) |
 | Макеты web (десктоп) | [Figma → Макеты web](https://www.figma.com/design/IcfGlUFdCH5oZp5v3d4UDG/%D0%93%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B9-%D0%B1%D1%80%D0%B8%D1%84-%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8-%E2%80%94-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5?node-id=0-1) |
 | Макеты Android | [Figma → Макеты Android](https://www.figma.com/design/IcfGlUFdCH5oZp5v3d4UDG/%D0%93%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B9-%D0%B1%D1%80%D0%B8%D1%84-%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8-%E2%80%94-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5?node-id=10-444) |
