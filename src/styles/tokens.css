@@ -1,0 +1,51 @@
+/* Токены — 1:1 с коллекцией Tokens в Figma (страница Design system → 1 · UI-kit).
+   Имена: color/accent → --color-accent. Значения в коде не хардкодим. */
+:root {
+  --color-bg: #0e0f0d;
+  --color-surface: #171915;
+  --color-surface-2: #1f221d;
+  --color-line: #2a2d27;
+  --color-text: #f2f1ea;
+  --color-text-muted: #8e9088;
+  --color-accent: #b8f25a;
+  --color-on-accent: #10120d;
+  --color-danger: #ff7a59;
+
+  --color-accent-a6: rgb(184 242 90 / 0.06);
+  --color-accent-a12: rgb(184 242 90 / 0.12);
+  --color-accent-a40: rgb(184 242 90 / 0.4);
+  --color-accent-a50: rgb(184 242 90 / 0.5);
+  --color-accent-a60: rgb(184 242 90 / 0.6);
+  --color-accent-a70: rgb(184 242 90 / 0.7);
+  --color-text-a7: rgb(242 241 234 / 0.07);
+  --color-text-a12: rgb(242 241 234 / 0.12);
+  --color-text-a22: rgb(242 241 234 / 0.22);
+  --color-text-a38: rgb(242 241 234 / 0.38);
+
+  --space-4: 4px; --space-8: 8px; --space-12: 12px; --space-16: 16px;
+  --space-20: 20px; --space-24: 24px; --space-32: 32px; --space-48: 48px;
+
+  --radius-xs: 8px; --radius-sm: 12px; --radius-md: 16px; --radius-lg: 24px; --radius-pill: 999px;
+
+  --font-ui: 'Onest', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+
+  /* типографика — текстовые стили Figma */
+  --type-display: 500 44px/52px var(--font-ui);
+  --type-display-m: 500 30px/36px var(--font-ui);
+  --type-title: 500 30px/38px var(--font-ui);
+  --type-title-m: 500 22px/28px var(--font-ui);
+  --type-body-l: 400 19px/30px var(--font-ui);
+  --type-body: 400 16px/24px var(--font-ui);
+  --type-small: 400 14px/20px var(--font-ui);
+  --type-label: 500 12px/16px var(--font-mono);
+  --type-button: 500 14px/20px var(--font-ui);
+  --type-nav: 500 12px/16px var(--font-ui);
+
+  /* движение — SPEC §11 */
+  --ease-standard: cubic-bezier(0.2, 0, 0, 1);
+  --ease-emphasized: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --dur-state: 150ms;
+  --dur-tick: 240ms;
+  --dur-screen: 400ms;
+}
